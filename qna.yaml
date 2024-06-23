@@ -1,0 +1,32 @@
+version: 2
+task_description: 'Teach the model about the compositions of Shao Fern Teo'
+created_by: jeremiahbuckley
+domain: pop_culture
+seed_examples:
+ - question: What are the chamber muisc compositions by Shao Fern Teo in 2023?
+   answer: |
+     In The Beginning, for oboe quartet (oboe, violin, viola and cello)
+ - question: What are the chamber music compositions by Shao Fern Teo in 2021?
+   answer: | 
+     As You Speak, for alto flute and bassoon
+ - question: What are the chamber music compositions by Shao Fern Teo in 2019?
+   answer: |
+     Snowflakes, for bassoon and piano
+ - question: What are the chamber music compositions by Shao Fern Teo in 2017?
+   answer: |
+     Congkak, for violin and piano
+     RUN, for bassoon quartet
+ - question: What are the chamber music compositions by Shao Fern Teo in 2016?
+   answer: |
+     Playgound On A Hill, for clarinet quartet
+ - question: What are the chamber music compositions by Shao Fern Teo in 2015?
+   answer: |
+     In Malaysia, for bassoon and piano
+     Rays of Aurora, for violin and guitar
+ - question: What are the chamber music compositions by Shao Fern Teo in 2013?
+   answer: |
+     The Blooming Flower, for flute, clarinet, percussion, piano, violin, and cello
+     The Future, for flute, cello, and harp
+ - question: What are the chamber music compositions by Shao Fern Teo in 2011?
+   answer: |
+     120 Days in America, for violin and piano
