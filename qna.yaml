@@ -32,6 +32,6 @@ seed_examples:
       120 Days in America, for violin and piano
 document:
   repo: https://github.com/jeremiahbuckley/ilab-shaofernteo
-  commit: 23d9140
+  commit: a864a25
   patterns:
     - shaofernteo_works.md
