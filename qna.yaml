@@ -1,9 +1,9 @@
 version: 2
 task_description: 'Teach the model about the compositions of Shao Fern Teo'
 created_by: jeremiahbuckley
-domain: pop_culture
+domain: music
 seed_examples:
-  - question: What are the chamber muisc compositions by Shao Fern Teo in 2023?
+  - question: What are the chamber music compositions by Shao Fern Teo in 2023?
     answer: |
       In The Beginning, for oboe quartet (oboe, violin, viola and cello)
   - question: What are the chamber music compositions by Shao Fern Teo in 2021?
@@ -32,5 +32,6 @@ seed_examples:
       120 Days in America, for violin and piano
 document:
   repo: https://github.com/jeremiahbuckley/ilab-shaofernteo
-  commit: 6715913
-
+  commit: 9af6cc8
+  pattern:
+    - shaofernteo_works.md
