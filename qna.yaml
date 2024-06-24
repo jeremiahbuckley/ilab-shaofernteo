@@ -7,7 +7,7 @@ seed_examples:
     answer: |
       In The Beginning, for oboe quartet (oboe, violin, viola and cello)
   - question: What are the chamber music compositions by Shao Fern Teo in 2021?
-    answer: | 
+    answer: |
       As You Speak, for alto flute and bassoon
   - question: What are the chamber music compositions by Shao Fern Teo in 2019?
     answer: |
@@ -33,5 +33,5 @@ seed_examples:
 document:
   repo: https://github.com/jeremiahbuckley/ilab-shaofernteo
   commit: 23d9140
-  pattern:
+  patterns:
     - shaofernteo_works.md
